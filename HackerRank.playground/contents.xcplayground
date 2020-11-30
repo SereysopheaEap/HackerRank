@@ -3,5 +3,7 @@
     <pages>
         <page name='BirthdayCakeCandles'/>
         <page name='timeConversion'/>
+        <page name='Test'/>
+        <page name='AppleAndOrange'/>
     </pages>
 </playground>
